@@ -1,6 +1,6 @@
 # LANGCHAIN PANDAS AGENT
 
-```latex
+```LATEX
 $${\color{red}Chat with the `CSV` or `XLSX` file uploaded}$$
 ```
 
