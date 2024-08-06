@@ -3,7 +3,7 @@
 > Chat with the `CSV` or `XLSX` file uploaded
 
 ## Chat Example
-<img width="400" src="./readme_source/chat_example.png">
+<img width="400" src="./readme_sources/Langchain-pandas-agent-demo.png">
 
 ## Project Overview
 > [!IMPORTANT]
@@ -17,7 +17,6 @@
 ```
 This **Langchain Pandas Agent** allows users to upload their own **CSV** or **XLSX** file and chat with the uploaded file in Traditional Chinese.
 ```
-
 
 > [!WARNING]
 > There are some warning messages mentioned in the Langchain documentation regarding the use of `create_pandas_dataframe_agent` as below：
