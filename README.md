@@ -1,7 +1,6 @@
 # LANGCHAIN PANDAS AGENT
 
-
-$$ {\color{red}Chat with the `CSV` or `XLSX` file uploaded} $$
+<span style="font-size:20px">Chat with the `CSV` or `XLSX` file uploaded</span>
 
 ## Chat Example
 <img width="400" src="./readme_sources/Langchain-pandas-agent-demo.png">
