@@ -14,18 +14,14 @@
 > - Web UI Framework: **Streamlit**
 > - Reverse Proxy Tool: **Ngrok**
 
-```markdown
-This **Langchain Pandas Agent** allows users to upload their own **CSV** or **XLSX** file and chat with the uploaded file in Traditional Chinese.
-```
+> > This **Langchain Pandas Agent** allows users to upload their own **CSV** or **XLSX** file and chat with the uploaded file in Traditional Chinese.
 
 > [!WARNING]
 > There are some warning messages mentioned in the Langchain documentation regarding the use of `create_pandas_dataframe_agent` as below：
 
-```markdown
-This agent relies on access to a python repl tool which can execute arbitrary code. This can be dangerous and requires a specially sandboxed environment to be safely used. Failure to run this code in a properly sandboxed environment can lead to arbitrary code execution vulnerabilities, which can lead to data breaches, data loss, or other security incidents.
-Do not use this code with untrusted inputs, with elevated permissions, or without consulting your security team about proper sandboxing!
-You must opt-in to use this functionality by setting allow_dangerous_code=True.
-```
+> > This agent relies on access to a python repl tool which can execute arbitrary code. This can be dangerous and requires a specially sandboxed environment to be safely used. Failure to run this code in a properly sandboxed environment can lead to arbitrary code execution vulnerabilities, which can lead to data breaches, data loss, or other security incidents.
+> > Do not use this code with untrusted inputs, with elevated permissions, or without consulting your security team about proper sandboxing!
+> > You must opt-in to use this functionality by setting allow_dangerous_code=True.
 
 ## References
 > The code in this project refers to some references mentioned below：
